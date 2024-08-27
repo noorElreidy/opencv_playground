@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+.env/
+.venv/
+pipenv.lock
+Pipfile.lock
+
+# Logs
+*.log
+
+
